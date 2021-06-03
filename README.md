@@ -6,6 +6,8 @@ Using the consumer price index for all urban consumers, I explored all CPI categ
 
 For this project, I depended on pandas....
 
+H
+
 # Data Prep
 
 # Models
