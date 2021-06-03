@@ -21,3 +21,46 @@ https://www.bls.gov/news.release/cpi.t02.htm
 https://www.bls.gov/news.release/cpi.nr0.htm
 
 https://fred.stlouisfed.org/series/CPIFABSL
+## Outline
+
+```bash
+technical-notes
+
+├── data-visualization
+│   ├── d3
+│   ├── python
+│   ├── R
+
+├── databases
+│   ├── SQL
+
+
+├── machine-learning
+│   ├── esl
+
+├── mathematics
+│   ├── algorithms
+│   ├── linear-algebra
+│   ├── optimization
+│   ├── stochastic-processes
+
+├── quantitative-trading
+│   ├── algorithms
+│   ├── epchan
+
+├── smart-contracts
+│   ├── Solidity
+│   ├── whitepapers
+
+├── statistics
+│   ├── inference
+│   ├── learning
+│   ├── time-series
+
+├── web-development
+│   ├── CSS
+│   ├── HTML
+│   ├── JavaScript
+
+├── README.md
+```
