@@ -6,13 +6,13 @@ Using the consumer price index for all urban consumers, I explored all CPI categ
 
 For this project, I depended on pandas....
 
-H
+
 
 # Data Prep
 
 # Models
 
-Inflation1.ipynb is a jupyter notebook where I imported CPI data from bls.gov to make visualizations showing plots of CPI vs date from 2017 and also plots of change in CPI by month vs date from 2017.
+InflationVisualizations.ipynb is a jupyter notebook where I imported CPI data from bls.gov to make visualizations showing plots of CPI vs date from 2017 and also plots of change in CPI by month vs date from 2017. Here, I also made 7 day rolling average plots for each CPIFABSL and the change.
 
 # References
 
