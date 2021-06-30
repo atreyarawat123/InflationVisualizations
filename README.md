@@ -4,7 +4,7 @@ Atreya Rawat
 
 Using the consumer price index for all urban consumers, I explored all CPI categories instead of just working with a CPI value because there are several factors that go into changing inflation. The ultimate goal for this is to use inflation to predict stock prices for different companies. 
 
-For this project, I depended on pandas....
+For this project, I depended on pandas...
 
 
 
