@@ -31,36 +31,5 @@ technical-notes
 │   ├── python
 │   ├── R
 
-├── databases
-│   ├── SQL
-
-
-├── machine-learning
-│   ├── esl
-
-├── mathematics
-│   ├── algorithms
-│   ├── linear-algebra
-│   ├── optimization
-│   ├── stochastic-processes
-
-├── quantitative-trading
-│   ├── algorithms
-│   ├── epchan
-
-├── smart-contracts
-│   ├── Solidity
-│   ├── whitepapers
-
-├── statistics
-│   ├── inference
-│   ├── learning
-│   ├── time-series
-
-├── web-development
-│   ├── CSS
-│   ├── HTML
-│   ├── JavaScript
-
 ├── README.md
 ```
