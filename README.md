@@ -4,6 +4,8 @@ Atreya Rawat
 
 Using the consumer price index for all urban consumers, I explored all CPI categories instead of just working with a CPI value because there are several factors that go into changing inflation. The ultimate goal for this is to use inflation to predict stock prices for different companies. 
 
+We also used the personal consumption expenditures data to make visualizations on how it changed from 1980 to 2020. We did both annual data and monthly data to amke these visualizations.
+
 For this project, I depended on pandas...
 
 
